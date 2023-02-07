@@ -75,7 +75,7 @@ export const Styles = StyleSheet.create({
   },
 
   screenSecondNumber: {
-    fontSize: 96,
+    fontSize: 94,
     color: myColor.lightGray,
     fontWeight: "200",
     textAlign: "right",
